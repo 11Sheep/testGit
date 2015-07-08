@@ -2,3 +2,4 @@ this is line 1 from user1 - change1 - file1
 this is line 2 from user1 - file1
 add line 1
 user 1 added to sideBranch
+this is a line that i have added in the master mranch
