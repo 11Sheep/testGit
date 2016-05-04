@@ -5,3 +5,5 @@ user 1 added to sideBranch
 this is a line that i have added in the master mranch
 
 I added this line before test stash
+
+2. and continue to work to check stash
