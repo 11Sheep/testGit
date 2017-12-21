@@ -2,9 +2,10 @@ this new content branch1 - 2 is line 1 from user1 - change1 - file1
 this is line 2 from user1 - new content branch1 - 3 file1
 add line 1
 user 1 added to sideBranch
-this is a line that i have added in the master mranch
+this is a line that i have added in the master continue content branch 1 - 2a mranch
 
 I added this line before test stash
 
 2. and continue to work to check stash
 new content branch1 - 1
+continue content branch 1 - 2a
